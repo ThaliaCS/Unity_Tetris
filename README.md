@@ -2,4 +2,4 @@
 ## Rainy Tetris 
 Tetris feito no Unity 
 
-Para acessar: https://thaliacs.github.io/WebGL_Tetris/
+Para acessar: https://thaliacs.github.io/Unity_Tetris/
